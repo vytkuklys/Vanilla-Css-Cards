@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vanilla-Css-Cards/static/css/main.c274ab4b.css",
+    "main.js": "/Vanilla-Css-Cards/static/js/main.58b69436.js",
+    "index.html": "/Vanilla-Css-Cards/index.html",
+    "main.c274ab4b.css.map": "/Vanilla-Css-Cards/static/css/main.c274ab4b.css.map",
+    "main.58b69436.js.map": "/Vanilla-Css-Cards/static/js/main.58b69436.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c274ab4b.css",
+    "static/js/main.58b69436.js"
+  ]
+}
